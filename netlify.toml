@@ -2,5 +2,5 @@
 	command = "make build"
 	functions = "./functions"
 [build.environment]
-	GO_IMPORT_PATH = "github.com/phoenixcoder/GolangNetlifyFunctions"
+	GO_IMPORT_PATH = "github.com/chrismalek/GolangNetlifyFunctions"
 	GOBIN = "/opt/build/repo/functions"
